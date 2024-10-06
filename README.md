@@ -24,7 +24,7 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="link-to-light-theme-image" alt="Светлая тема" width="45%" height="auto" />
+  <img src="screen.png" alt="Светлая тема" width="45%" height="2745" />
   <img src="https://via.placeholder.com/20x1.png" alt="Отступ" width="20" height="1" />
-  <img src="link-to-dark-theme-image" alt="Темная тема" width="45%" height="auto" />
+  <img src="screen-dark.png" alt="Темная тема" width="45%" height="2745" />
 </p>
